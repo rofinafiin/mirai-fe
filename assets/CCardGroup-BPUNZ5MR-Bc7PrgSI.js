@@ -1,1 +1,0 @@
-import{f as p,a as d,p as i,h as n,_ as f,J as a}from"./index-CGU3vo64.js";var e=p.forwardRef(function(r,s){var c=r.children,l=r.className,o=d(r,["children","className"]);return i.createElement("div",n({className:f("card-group",l)},o,{ref:s}),c)});e.propTypes={children:a.node,className:a.string};e.displayName="CCardGroup";export{e as r};

@@ -1,1 +1,0 @@
-import{f as d,a as f,p as i,h as l,_ as n,J as r}from"./index-CGU3vo64.js";var a=d.forwardRef(function(e,s){var o=e.children,c=e.className,t=f(e,["children","className"]);return i.createElement("div",l({className:n("card-footer",c)},t,{ref:s}),o)});a.propTypes={children:r.node,className:r.string};a.displayName="CCardFooter";export{a as s};
